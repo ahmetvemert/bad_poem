@@ -2,6 +2,6 @@
 Someone please fix it!
 
     Tulips are yellow,
-    violets are blue,
+    violets are red,
     this poem is nice,
-    because I can do it :)
+    because you can do it :)
